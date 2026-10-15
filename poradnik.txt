@@ -1,0 +1,9 @@
+1. Instalacja SDK - Metavision_SDK_462_Setup.exe  Path: (C:\Program Files\Prophesee)
+2. Instalacja sterowników do kamery -  Configuration/SilkyEvCam_Installer_for_win64_v4.6.2
+
+
+Konfiguracja Uruchomienia: x64 Release (Debug nie działa, brakuje niektórych dll)
+                           SilkyEvCam.exe
+
+problemy z cmake(przeładowanie cache):
+Project -> Configure Cache

@@ -1,0 +1,47 @@
+# ==========================================
+# Visual Studio (wszędzie, także w podkatalogach)
+# ==========================================
+.vs/
+**/.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Bazy danych i indeksy Visual Studio / IntelliSense
+*.vsidx
+*.db
+*.aps
+*.opensdf
+*.sdf
+
+# ==========================================
+# CMake Build Directories & Cache (wszędzie)
+# ==========================================
+build/
+out/
+CMakeCache.txt
+CMakeFiles/
+cmake-install.cmake
+*.cmake
+!CMakeLists.txt
+
+# ==========================================
+# Binaria i pliki tymczasowe kompilacji
+# ==========================================
+#*.exe
+*.dll
+*.lib
+*.obj
+*.ilk
+*.pdb
+*.exp
+*.manifest
+*.log
+*.tmp
+
+# ==========================================
+# Nagrania kamer (pliki .raw)
+# ==========================================
+#*.raw
+*.raw.tmp_index

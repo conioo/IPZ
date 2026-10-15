@@ -1,0 +1,6 @@
+Copyright (c) 2024 CenturyArks Co.,Ltd.
+
+These software may be used only when using CenturyArks's products or services.
+
+Copyright holder shall not be liable for any claim, damages or other liability arising
+from the use or other dealings in the software.
