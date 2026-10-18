@@ -12,6 +12,7 @@ project ("SilkyEvCam")
 
 # Wskazanie ścieżek do Metavision SDK oraz wbudowanego w SDK pakietu OpenCV
 list(APPEND CMAKE_PREFIX_PATH "C:/Program Files/Prophesee")
+list(APPEND CMAKE_PREFIX_PATH "C:/Program Files/Prophesee/third_party")
 list(APPEND CMAKE_PREFIX_PATH "C:/Program Files/Prophesee/third_party/share/opencv")
 set(MetavisionSDK_DIR "C:/Program Files/Prophesee/share/cmake/MetavisionsSDK")
 
